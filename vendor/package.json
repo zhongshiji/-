@@ -1,0 +1,14 @@
+{
+  "name": "vendor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mocha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Er_shenger",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}

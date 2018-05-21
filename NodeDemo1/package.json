@@ -1,0 +1,19 @@
+{
+  "name": "nodedemo1",
+  "version": "1.0.0",
+  "description": "An node study project.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Er_shenger",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "koa": "^2.5.1",
+    "koa-router": "^7.4.0",
+    "superagent": "^3.8.3",
+    "utility": "^1.13.1"
+  }
+}

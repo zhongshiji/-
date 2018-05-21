@@ -1,0 +1,16 @@
+{
+  "name": "nodedemo4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "mocha",
+    "test-cov": "istanbul cover C:/Users/HY/AppData/Roaming/npm/node_modules/mocha/bin/_mocha"
+  },
+  "author": "Er_shenger",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^13.2.1"
+  }
+}
